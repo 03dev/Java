@@ -1,0 +1,14 @@
+.header{
+	-fx-background-color : #008b8b;
+	-fx-background-radius : 15px;
+}
+.transparent{
+    -fx-background-color: rgb(0,0,0,0);
+}	
+.round{
+	-fx-background-color:  #f08080;
+	-fx-background-radius: 35px;
+}
+.shadow{
+	-fx-effect : dropshadow(three-pass-box,rgba(0,0,0,0.1),10.0,0.0,0.0,10.0);
+}
